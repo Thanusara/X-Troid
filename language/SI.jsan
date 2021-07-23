@@ -188,12 +188,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```LoNeWoLf is Downloading your song...```"
-            "UPLOADING_SONG": "```LoNeWoLf is Uploading your song...```"
-            "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```LoNeWoLf is Downloading your video...```",
-            "UPLOADING_VIDEO": "```LoNeWoLf is Uploading your video...```",
+            "DOWNLOADING_SONG": "```LoNeWoLf is Downloading your song 🎶 ...```"
+            "UPLOADING_SONG": "```LoNeWoLf is Uploading your song⚡🎶...```"
+            "VIDEO_DESC": "Downloads video from YouTube Servers🌝.",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```🎶.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "DOWNLOADING_VIDEO": "```LoNeWoLf is Downloading your video 🙂...```",
+            "UPLOADING_VIDEO": "```LoNeWoLf is Uploading your video 👀...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos from Official Yt Servers...```",
@@ -363,7 +363,7 @@
             "VİD_NEED": "```Please Reply to Any Video!```"
         },
         "carbon": {
-            "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
+            "CARBON_DESC": "LoNeWoLf Uses carbon.sh for Text-to-Image",
             "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon making#test```",
             "CARBON_WARN": "Please only type in en and tr character!"
         },
@@ -395,7 +395,7 @@
             
         },
         "wallpaper": {
-            "WP": "It sends high resolution wallpapers."
+            "WP": "LoNeWolF sends high resolution wallpapers."
         },
         "webss": {
             "SS_DESC": "Takes a screenshot from the page in the given link.",
