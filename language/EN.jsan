@@ -196,8 +196,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Ｘ-Ｔｒｏｉｄ is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Ｘ-Ｔｒｏｉ ｄ!*\n\nChanges:\n```",
+            "UPDATE": "*LoNeWoLf is completely up-to-date!*",
+            "NEW_UPDATE": "*New update available for LoNeWoLf!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "_Updating..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
