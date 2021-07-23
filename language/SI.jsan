@@ -191,11 +191,11 @@
             "DOWNLOADING_SONG": "```LoNeWoLf is Downloading your song 🎶 ...```"
             "UPLOADING_SONG": "```LoNeWoLf is Uploading your song⚡🎶...```"
             "VIDEO_DESC": "Downloads video from YouTube Servers🌝.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```🎶.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please type a video link!*\n*Example:* ```🎶.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```LoNeWoLf is Downloading your video 🙂...```",
             "UPLOADING_VIDEO": "```LoNeWoLf is Uploading your video 👀...```",
-            "YT_DESC": "It searchs on YouTube.",
-            "NEED_WORDS": "```Please write a few words!```",
+            "YT_DESC": "It searchs on YouTube Servers.",
+            "NEED_WORDS": "```Please write a few words like This !```",
             "GETTING_VIDEOS": "```I'm bringing videos from Official Yt Servers...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
             "SEARCHING": "* 🔎 Searching From Youtube...*",
