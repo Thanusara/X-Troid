@@ -219,7 +219,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update of LoNeWoLf."
             "UPDATE": "*✔️LoNeWoLf is completely up-to-date!*",
-            "NEW_UPDATE": "*New updates available for X-Troid!*\n\n*Changes:*\n\n```",
+            "NEW_UPDATE": "*New updates available for LoNeWolF!*\n\n*Changes:*\n\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "_Updating..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
