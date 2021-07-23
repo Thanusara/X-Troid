@@ -71,10 +71,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Ｘ-Ｔｒｏｉｄ",
-            "RESTART_MSG": "```Restarting...```",
+            "RESTART_DESC": "Restart LoNeWoLf",
+            "RESTART_MSG": "```Restarting LoNeWoLf...```",
             "SHUTDOWN_DESC": "Shutdown Ｘ-Ｔｒｏｉｄ",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "SHUTDOWN_MSG": "```Shutting down LonNeWoLf ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
