@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Sinhala",
     "LANGCODE": "si",
-    "AUTHOR": "Lasiya",
+    "AUTHOR": "Lasiya/Thanusara",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -82,10 +82,11 @@
             "MUST_TEXT": "```කරුණාකර ඕනෑම පණිවිඩයකට පිළිතුරු දෙන්න```"
         },
         "heroku": {
-            "RESTART_DESC": "X-Troid නැවත ආරම්භ කරන්න",
-            "RESTART_MSG": "```නැවත ආරම්භ කිරීම...```",
-            "SHUTDOWN_DESC": "වසා දැමීම X-Troid",
-            "SHUTDOWN_MSG": "```වසා දමයි ⛔```",
+            "RESTART_DESC": "LoNeWoLf නැවත ආරම්භ කරන්න",
+            "RESTART_MSG": "```LoNeWoLf නැවත ආරම්භ කිරීම...```",
+            "SHUTDOWN_DESC": "වසා දැමීම ",
+            "SHUTDOWN_DESC": "වසා දැමීම ",
+            "SHUTDOWN_MSG": "```වසා දමයි LoNeWoLf⛔```",
             "DYNO_DESC": "හෙරොකු ඩයිනෝ භාවිතය",
             "DYNO_TOTAL": "```සංපූර්ණ ප්‍රමාණය```",
             "DYNO_USED": "```බවිතා කල ප්‍රමාණය```",
@@ -144,7 +145,7 @@
         "ocr": {
             "OCR_DESC": "ඔබ පිළිතුරු දුන් ඡායාරූපයෙහි පෙළ කියවයි.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Media is downloading & reading...```",
+            "DOWNLOADING": "```Media is downloading & reading by LoNeWoLf...```",
             "ERROR: "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
@@ -187,23 +188,23 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```Downloading your song...```"
-            "UPLOADING_SONG": "```Uploading your song...```"
+            "DOWNLOADING_SONG": "```LoNeWoLf is Downloading your song...```"
+            "UPLOADING_SONG": "```LoNeWoLf is Uploading your song...```"
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```LoNeWoLf is Downloading your video...```",
+            "UPLOADING_VIDEO": "```LoNeWoLf is Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```I'm bringing videos from Official Yt Servers...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "* 🔎 Searching From Youtube...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
+            "STICKER_DESC": "It converts your replied photo or video to sticker by LoNeWoLf.",
             "NEED_REPLY": "*Reply to a photo or video!*",
             "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
@@ -216,15 +217,15 @@
             "ADMİN": "*I am not admin in this group!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update."
-            "UPDATE": "*✔️Your bot is completely up-to-date!*",
+            "UPDATER_DESC": "Checks the update of LoNeWoLf."
+            "UPDATE": "*✔️LoNeWoLf is completely up-to-date!*",
             "NEW_UPDATE": "*New updates available for X-Troid!*\n\n*Changes:*\n\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "_Updating..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅✔️ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 X-Troid Restarting ♻️ Automatically!*"
+            "AFTER_UPDATE": "*💬 LoNeWoLf🐺 Restarting ♻️ Automatically!*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather."
@@ -478,7 +479,7 @@
         },
         "covid": 
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
-            "NOT": "*🤒 ප්‍රවේශම්වන්න😷*\n\n⚠️ සෙනඟ ගැවසෙන ස්ථාන මගහරින්න\n⚠️මුඛ ආවරණ පළඳින්න\n⚠️නිතර අත සෝදන්න\n\n*ඔබට අවශ්‍ය තොරතුරු දැනගැනීමට*\n WHO නිල whatsapp එක වෙත පිවිසෙන්න.\n wa.me/+41798931892\n\n*ඔබට ඔබේ ජීවිතය මතක් කිරීමකි*\n        💡*දැනුම සමූහය*📚"
+            "NOT": "*🤒 ප්‍රවේශම්වන්න😷*\n\n⚠️ සෙනඟ ගැවසෙන ස්ථාන මගහරින්න\n⚠️මුඛ ආවරණ පළඳින්න\n⚠️නිතර අත සෝදන්න\n\n*ඔබට අවශ්‍ය තොරතුරු දැනගැනීමට*\n WHO නිල whatsapp එක වෙත පිවිසෙන්න.\n wa.me/+41798931892\n\n*ඔබට ඔබේ ජීවිතය මතක් කිරීමකි*\n     
         }
     }
 
